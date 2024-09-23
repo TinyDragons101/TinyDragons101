@@ -5,9 +5,9 @@
 
 
 ## 👨‍💻 About Me
-- 🏫 I am currently studying IT in VNU - HCMUS</br>
+- 🏫 Currently studying IT in VNU - HCMUS</br>
 - ❤️‍🔥 Interest in Software and Data development
-- 🎮 If you play LOL you can add me: daothienchua #VN2
+- 
 
 
 
@@ -32,3 +32,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </div>
+
+## 💹 Stats
