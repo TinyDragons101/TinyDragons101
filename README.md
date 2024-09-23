@@ -4,11 +4,10 @@
 <h1 align="center">Hello there. I'm TinyDragons</h1>
 
 
-## 💫 About Me
-- 🌱 I am currently working on and developing my programming skills.</br>
-- 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
-- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
-- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.
+## 👨‍💻 About Me
+- 🏫 I am currently studying IT in VNU - HCMUS</br>
+- ❤️‍🔥 Interest in Software and Data development
+- 🎮 If you play LOL you can add me: daothienchua #VN2
 
 
 
@@ -26,7 +25,7 @@
 </div>
 
 
-## 📚 Languages & tools
+## 📚 Languages & 🔨 Tools
 <br/>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
